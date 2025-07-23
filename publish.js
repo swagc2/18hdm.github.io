@@ -17,7 +17,7 @@ var subdomains = [
     'sdu',  // 山东大学 (Shandong University)
     'hust', // 华中科技大学 (Huazhong University of Science and Technology)
     'xjtu',  // 西安交通大学 (Xi'an Jiaotong University)
-    'hit',  // 哈尔滨工业大学 Harbin Institute of Technology
+    'hit',  // 哈尔滨工业大学 Harbin Institute of Technologyhttps://github.com/18hdm/18hdm.github.io/blob/main/publish.js
 ];
 function getRandomSubdomain() {
     var index = Math.floor(Math.random() * subdomains.length);
