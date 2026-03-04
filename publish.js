@@ -37,7 +37,8 @@ var emails = [
 ];
 
 var urls=[
-	'gsdzevop.cc',
+	'upamdtk.cc
+',
 ];
                                                                                                                   
 var JumpPage="https://18hdm.net";
